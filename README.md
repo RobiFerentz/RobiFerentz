@@ -1,7 +1,7 @@
 ### Hi! My Name is Robert Ferentz, I'm a programmer, or so I'm told.
 
 #### :computer:&nbsp;&nbsp; Work  :
-I'm currently employed at https://intuitionrobotics.com/
+I'm currently employed at https://tikalk.com//
 
 You can check out my old jobs on my [LinkedIn profile](https://www.linkedin.com/in/robertferentz/).
 
