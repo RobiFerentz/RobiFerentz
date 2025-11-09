@@ -18,9 +18,6 @@ You can check out my old jobs on my [LinkedIn profile](https://www.linkedin.com/
 - Conversations about dogs, science, games and books.
 - Occasional professionalism.
 
-#### :clipboard:&nbsp;&nbsp; Projects:
-I'm looking to contribute to Rust projects, but I'm still a complete n00b and may need mentorship.
-
 #### :electric_plug:&nbsp;&nbsp; Connect with me:
 - LinkedIn: https://www.linkedin.com/in/robertferentz/
 - Twitter: https://twitter.com/robiferentz (I'm mostly there for dog pictures, don't expect any twitter wisdom)
